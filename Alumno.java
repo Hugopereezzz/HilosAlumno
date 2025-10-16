@@ -1,5 +1,3 @@
-package HiloAlumnos;
-
 public class Alumno implements Runnable{
 
     String nombre;
